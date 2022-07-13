@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @simonkim-bot
-- 👀 I’m interested in softwares.
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on a banking administrator project.
+- 👀 I’m Web3 enthusiast
+- 🌱 I’m currently learning solidity.
 - 📫 How to reach me anthorkim@gmail.com
 
 <!---
